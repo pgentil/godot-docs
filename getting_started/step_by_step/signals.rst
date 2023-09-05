@@ -118,7 +118,7 @@ methods "_on_node_name_signal_name". Here, it'll be "_on_button_pressed".
 .. note::
 
    When connecting signals via the editor's Node dock, you can use two
-   modes. The simple one only allows you to connect to nodes that have a
+   modes. The simple one only allows you to connect two nodes that have a
    script attached to them and creates a new callback function on them.
 
    .. image:: img/signals_advanced_connection_window.png
